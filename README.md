@@ -4,17 +4,17 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWxjc3B4aHZnZmU4aGh4amh1cmV6OGpvcjNvZ3Z4dmFmYTVsN2htbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vrxxqQbyRxYi6scCjT/giphy.gif"  />
-
-###
-
 <h2 align="left">Hi 👋! My name is Zamorano and I'm just a guy from Brazil 🇧🇷</h2>
 
 ###
 
 <p align="left">🎓 Computer Science student at UDF (Brasília, Brazil)<br>💻 Passionate about programming and technology<br>🤖 Interested in AI and software development</p>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWxjc3B4aHZnZmU4aGh4amh1cmV6OGpvcjNvZ3Z4dmFmYTVsN2htbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vrxxqQbyRxYi6scCjT/giphy.gif"  />
 
 ###
 
@@ -26,18 +26,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zamfs.zamfs&left_color=lightgreen"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/zamfs/zamfs/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -56,5 +44,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zamfs.zamfs&left_color=lightgreen"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/zamfs/zamfs/output/snake.svg" alt="Snake animation" />
 
 ###
