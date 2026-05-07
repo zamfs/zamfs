@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Zamorano and I'm just a guy from Brazil 🇧🇷</h2>
+<h2 align="left">Hey 👋! My name is Zamorano and I'm just a guy from Brazil 🇧🇷</h2>
 
 ###
 
