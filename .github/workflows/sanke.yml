@@ -22,7 +22,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?color_snake=#47C5FF&color_dots=#121D22,#245266,#33728F,#62AACC,#47C5FF
+          outputs: 'dist/snake.svg?color_snake=%2347C5FF&color_dots=%23121D22,%23245266,%2333728F,%2362AACC,%2347C5FF'
 
 
       - name: push snake.svg to the output branch
