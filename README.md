@@ -156,5 +156,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=47C5FF&height=100&section=footer" width="100%" alt="Footer Wave" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1000&color=47C5FF&center=true&vCenter=true&width=550&height=30&lines=%2F*%20EOF%20--%20Thanks%20for%20stopping%20by!%20*%2F;system_shutdown()%20--exit%200;%2F%2F%20Ready%20for%20the%20next%20challenge...;" alt="EOF Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=47C5FF&height=3&section=footer" width="40%" alt="Line Footer" />
 </div>
